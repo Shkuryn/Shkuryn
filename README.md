@@ -25,7 +25,6 @@ Since April 2022, I have abruptly shifted my career stack after 17 years of deve
 
 
 
-Большой (large):  
 [![codewars](https://www.codewars.com/users/Shkuryn/badges/large)](https://www.codewars.com/users/Shkuryn)  
 
 
